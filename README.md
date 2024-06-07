@@ -1,5 +1,3 @@
-Sudoku-Solver
-
 Sudoku Solver in Python using AI search techniques of A* search and Evolutionary Algorithm. Group Project for my Intro to AI course.
 You will need to install the following libraries to run this program:
 
